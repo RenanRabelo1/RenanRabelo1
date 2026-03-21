@@ -2,9 +2,15 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atualmente, estou cursando Ciência da COmputação na Unifor. Sou apaixonado por tecnologia e compartilho minhas experiências, principalmente em Hackthons e Bootcamps através do meu instagram, e linkedin, vou poupar seu tempo, e dizer que tudo sobre mim você pode ver no meu Linktr.ee (linktr.ee/renanrabelo0)
+Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atualmente, estou cursando Ciência da COmputação na Unifor. Sou apaixonado por tecnologia e compartilho minhas experiências, principalmente em Hackthons e Bootcamps através do meu instagram, e linkedin, vou poupar seu tempo, e dizer que tudo sobre mim você pode ver no meu linktr.ee
 
 <p align="left">
+    <a href="https://linktr.ee/renanrabelo0">
+    <img 
+        src="https://img.shields.io/badge/Linktree-1155ba?style=for-the-badge&logo=linktree&logoColor=white" 
+        alt="Linktree" 
+        title="Meu Linktree"
+    />
     <a href="https://github.com/RenanRabelo1?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -55,8 +61,7 @@ Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atu
     title="Postgresql" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"         
 />
 <img 
     align="left" 
@@ -92,29 +97,13 @@ Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atu
   />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Android Studio" 
+    title="Android Studio"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+    />
+    <img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -124,13 +113,32 @@ Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atu
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Godot" 
+    title="Godot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"
+    />     
 
 <br/>
 <br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=RenanRabelo1&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRabelo1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
