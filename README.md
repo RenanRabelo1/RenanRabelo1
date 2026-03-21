@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atualmente, estou cursando Ciência da COmputação na Unifor. Sou apaixonado por tecnologia e compartilho minhas experiências, principalmente em Hackthons e Bootcamps através do meu instagram, e linkedin, vou poupar seu tempo, e dizer que tudo sobre mim você pode ver no meu linktr.ee
+Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atualmente, estou cursando Ciência da COmputação na Unifor. Sou apaixonado por tecnologia e compartilho minhas experiências, principalmente em Hackthons e Bootcamps através do meu instagram e linkedin, tudo sobre mim você pode ver no meu linktr.ee
 
 <p align="left">
     <a href="https://linktr.ee/renanrabelo0">
