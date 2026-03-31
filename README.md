@@ -128,7 +128,7 @@ Me chamo Renan Rabelo de Oliveira, tenho 19 anos e sou natural de Fortaleza. Atu
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RenanRabelo1&show_icons=true&theme=tokyonight&locale=pt-br" 
